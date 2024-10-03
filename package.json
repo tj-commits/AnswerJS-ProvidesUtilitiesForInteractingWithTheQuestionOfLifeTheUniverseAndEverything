@@ -1,0 +1,39 @@
+{
+  "name": "answerjs",
+  "version": "42.0.0",
+  "description": "Provides utilities for interacting with the answer to the question of life, the universe, and everything.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-commits/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything.git"
+  },
+  "keywords": [
+    "42",
+    "answer",
+    "the-answer",
+    "life",
+    "everything",
+    "meaning-of-life",
+    "42"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tj-commits/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything/issues"
+  },
+  "homepage": "https://github.com/tj-commits/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything#readme",
+  "dependencies": {
+    "@lambtron/is-42": "^0.0.7",
+    "forty-two": "^1.0.1",
+    "is-answer-to-the-ultimate-question-of-life-the-universe-and-everything": "^42.0.1",
+    "is-the-answer": "^0.0.1",
+    "is42": "^0.0.4",
+    "meaning-of-life": "^1.0.0",
+    "the-answer": "^1.0.0",
+    "the-answer-to-everything": "^1.0.42",
+    "the-answer-to-the-ultimate-question-of-life-the-universe-and-everything": "^1.0.0"
+  }
+}
