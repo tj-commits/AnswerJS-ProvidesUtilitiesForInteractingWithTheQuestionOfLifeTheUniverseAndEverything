@@ -1,6 +1,6 @@
 {
   "name": "answerjs",
-  "version": "42.0.0",
+  "version": "42.42.42",
   "description": "Provides utilities for interacting with the answer to the question of life, the universe, and everything.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tj-commits/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything.git"
+    "url": "git+https://github.com/10xEngineersQualityProgramming/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything.git"
   },
   "keywords": [
     "42",
@@ -22,9 +22,9 @@
   "author": "me",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tj-commits/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything/issues"
+    "url": "https://github.com/10xEngineersQualityProgramming/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything/issues"
   },
-  "homepage": "https://github.com/tj-commits/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything#readme",
+  "homepage": "https://github.com/10xEngineersQualityProgramming/AnswerJS-ProvidesUtilitiesForInteractingWithTheQuestionOfLifeTheUniverseAndEverything",
   "dependencies": {
     "@lambtron/is-42": "^0.0.7",
     "forty-two": "^1.0.1",
