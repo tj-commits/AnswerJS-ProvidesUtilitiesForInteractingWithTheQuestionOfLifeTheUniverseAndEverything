@@ -1,6 +1,6 @@
 {
   "name": "answerjs",
-  "version": "42.42.42",
+  "version": "42.42.1000",
   "description": "Provides utilities for interacting with the answer to the question of life, the universe, and everything.",
   "main": "index.js",
   "scripts": {
@@ -34,6 +34,7 @@
     "meaning-of-life": "^1.0.0",
     "the-answer": "^1.0.0",
     "the-answer-to-everything": "^1.0.42",
-    "the-answer-to-the-ultimate-question-of-life-the-universe-and-everything": "^1.0.0"
+    "the-answer-to-the-ultimate-question-of-life-the-universe-and-everything": "^1.0.0",
+    "ultimate-number": "^1.1.0"
   }
 }

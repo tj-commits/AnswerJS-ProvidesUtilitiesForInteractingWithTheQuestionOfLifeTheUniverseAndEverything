@@ -8,5 +8,6 @@ module.exports = {
   meaningOfLife: require("meaning-of-life"),
   theAnswer: require("the-answer"),
   theAnswerToEverything: require("the-answer-to-everything"),
-  theAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything: require("the-answer-to-the-ultimate-question-of-life-the-universe-and-everything")
+  theAnswerToTheUltimateQuestionOfLifeTheUniverseAndEverything: require("the-answer-to-the-ultimate-question-of-life-the-universe-and-everything"),
+  ultimateNumber: require("ultimate-number")
 }
